@@ -1,0 +1,1 @@
+SELECT * FROM nhs_flytech_db.Patient;
